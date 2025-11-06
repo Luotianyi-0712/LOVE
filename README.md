@@ -1,3 +1,3 @@
-# LOVE
+BYE
 
-Generated with https://github.com/zmrlft/GreenWall.
+归档
